@@ -32,7 +32,7 @@ body {
 /* Social Card Styling */
 .social-profile-card {
   background-color: var(--Grey-800);
-  max-width: 22rem;
+  max-width: 23rem;
   border-radius: 10px;
   padding: 1.5rem 2rem;
   text-align: center;
